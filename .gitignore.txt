@@ -1,2 +1,0 @@
-*RockPaperScissors.py
-*jupy.ipynb
